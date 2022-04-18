@@ -7,7 +7,19 @@ https://medium.com/mlearning-ai/making-uncrackable-memorable-passwords-in-python
 
 https://bitwarden.com/password-strength/
 
+## Contributors
 
+Contributed by: Gregg R. Saldutti
+
+Email: greggnyc1@gmail.com
+
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/greggsaldutti-1701501)
+
+
+---
+
+## License
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 
 Contributors
