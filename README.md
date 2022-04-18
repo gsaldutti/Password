@@ -11,7 +11,7 @@ Random which is inbuilt to python and nltk which is one of the best machine lear
 
 You need to install nltk on your machine if you do not have it already built-in. If so run
 
-! Pip install nltk
+## Pip install nltk
 
 This should install the library. As nltk does have not all the data you will need will be prebuilt in so you might need to run
 
