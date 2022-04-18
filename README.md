@@ -39,12 +39,21 @@ The result:
 
 I think it is good to measure how effective these passwords are so I have run them through a password strength checker which can be found at https://bitwarden.com/password-strength/. All of them came back as centuries which I think is good enough to say that these passwords are good enough for time being.
 
+As you can see these passwords are generally quite memorable but are also easier to remember than randomly generated passwords. There are still some upgrades that would improve this such as removing exact matches. But I will leave that up to you in the case that you feel like doing a challenge.
 
-https://medium.com/mlearning-ai/making-uncrackable-memorable-passwords-in-python-using-machine-learning-5512ef95bc4b
+This is quite a simple use of machine learning in terms of NLP you are not really analysing the use of the words but it gives a great understanding of how you can use a library to allow for interesting features.
+
+If you are wanting a challenge and or to improve the project here are some ways to do so.
+
+3 ways to improve the project
+
+1. Switch the positions of the words and the location so that the location is not always first but will be attached at a random position.
+
+2. Switch it so it can become more relevant to the user by allowing the user to add a number that they find relevant to their own life e.g birth year, graduation year rather than some randomly generated numbers
+
+3. Make it so that exact matches of the word inputted aren’t possible to be inserted into the password.
 
 
-
-https://bitwarden.com/password-strength/
 
 ## Contributors
 
