@@ -37,7 +37,11 @@ Once you have done that it is straight forward all you must do is attach the cho
 
 The result:
 
-I think it is good to measure how effective these passwords are so I have run them through a password strength checker which can be found at https://bitwarden.com/password-strength/. All of them came back as centuries which I think is good enough to say that these passwords are good enough for time being.
+I think it is good to measure how effective these passwords are so I have run them through a password strength checker which can be found at
+
+https://bitwarden.com/password-strength/. 
+
+All of them came back as centuries which I think is good enough to say that these passwords are good enough for time being.
 
 As you can see these passwords are generally quite memorable but are also easier to remember than randomly generated passwords. There are still some upgrades that would improve this such as removing exact matches. But I will leave that up to you in the case that you feel like doing a challenge.
 
