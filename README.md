@@ -3,11 +3,16 @@
 ## Making uncrackable memorable passwords in python using machine learning.
 
 The core functionality of this program is that it builds passwords from things you like. It will ask the user for 3 inputs. First, an input of a place they like/ have visited then 2 inputs of words that they like.
+
 To start off you would need to import the relevant libraries.
+
 For this project, there are two main libraries that will be used
 Random which is inbuilt to python and nltk which is one of the best machine learning libraries when working with natural language. #
+
 You need to install nltk on your machine if you do not have it already built-in. If so run
+
 Pip install nltk
+
 This should install the library. As nltk does have not all the data you will need will be prebuilt in so you might need to run
 Nltk.download(‘omw-1.4’)
 First, we should define some of the local variables that we are going to use:
