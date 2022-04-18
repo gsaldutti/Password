@@ -1,6 +1,6 @@
 # Password
 
-## Making uncrackable and memorable passwords in python using machine learning.
+# Making uncrackable and memorable passwords in python using machine learning.
 
 The core functionality of this program is that it builds passwords from things you like. It will ask the user for 3 inputs. First, an input of a place they like/ have visited then 2 inputs of words that they like.
 
