@@ -1,4 +1,4 @@
-# Password
+# Password Generaator
 
 # Making uncrackable and memorable passwords in python using machine learning.
 
